@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=400px height=300px src="Pictures/IMG_20210406_193517.jpg" alt="Device"></a>
+ <img width=400px height=300px src="Pictures/Main.JPG" alt="Device"></a>
 </p>
 
 <h1 align="center">Current Sense</h1>
@@ -43,7 +43,7 @@ This project was inspired by Micro Current Gold project, but this is simpler, bu
 
 ## 3. Getting Started <a name = "getting_started"></a>
 
-To start, just use gerber files to order your own PCB, and order parts from BOM file. Device is powered by two 12V batteries.
+To start, just use gerber files to order your own PCB, and order parts from BOM file. Device is powered by two 12V (MN21) batteries.
 
 ## 4. Usage <a name="usage"></a>
 
@@ -61,3 +61,5 @@ Use SW3 to switch ON device. Adjust current range using SW2. To read current you
 
 ## 6. Pictures <a name="pictures"></a>
 
+![](Pictures/IMG_20210408_172948.jpg)
+![](Pictures/IMG_20210408_173003.jpg)
